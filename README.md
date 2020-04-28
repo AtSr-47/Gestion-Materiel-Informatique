@@ -28,4 +28,4 @@ E-mail : athmane.srai@gmail.com
 ![Capture 07](https://github.com/AthmaneSrai/Gestion-Materiel-Informatique/blob/master/Screenshots/6.PNG)
 
 ---------------------------------------
-![Capture 07](https://github.com/AthmaneSrai/Gestion-Materiel-Informatique/blob/master/Screenshots/6.1.PNG)
+![Capture 08](https://github.com/AthmaneSrai/Gestion-Materiel-Informatique/blob/master/Screenshots/6.1.PNG)
