@@ -1,9 +1,9 @@
-# JAVA DESKTOP
-Gestion Materiel Informatique
-[embed]https://github.com/AthmaneSrai/Gestion-Materiel-Informatique/blob/master/Guide.pdf[/embed]
+# DESKTOP APP (JAVA)
+# Gestion Matériel Informatique
 By Athmane Srai </br>
 E-mail : athmane.srai@gmail.com
 
+<center>
 ![Capture 00](https://github.com/AthmaneSrai/Gestion-Materiel-Informatique/blob/master/Screenshots/0.PNG)
 		 
 ---------------------------------------
