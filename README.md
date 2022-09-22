@@ -1,6 +1,6 @@
 # DESKTOP APP (JAVA)
 # Gestion Matériel Informatique
-By Athmane Srai </br>
+By At.Sr </br>
 E-mail : athmane.work@gmail.com
 <center>
 	
